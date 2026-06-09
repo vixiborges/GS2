@@ -61,7 +61,7 @@ Pipeline completo de dados espaciais + ML que transforma dados de satélite e cl
 
 ```bash
 # Clone o repositório
-git clone <url-do-repositorio>
+git clone [<url-do-repositorio>](https://github.com/vixiborges/GS2.git)
 cd agrosat
 
 # Instale as dependências
